@@ -3,10 +3,10 @@
 
 # The main programs are:
 
--vol_empirical that runs the empirical part <br>
+-vol_empirical.m runs the empirical part <br>
 
 
--vol_calibration that runs the calibration part
+-vol_calibration.m runs the calibration part
 
 
 Note that a folder contianing SP futures zip files should exist in the directory in its ORIGINAL form.
