@@ -1,0 +1,1 @@
+params.theta*log(params.delta)+params.theta*(-log(kappa1)+(1-kappa1)*[A_c;A_x;A_sigmabar;A_sigma;A_d]'*params.EY)+fapdx(params,params.theta*(1-1/params.psi)*e_c+params.theta*kappa1*[A_c;A_x;A_sigmabar;A_sigma;A_d])
